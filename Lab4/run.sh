@@ -1,0 +1,1 @@
+gcc -Wall -std=c99 lab4.c -o bin/lab4 && ./bin/lab4 "$@"
