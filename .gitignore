@@ -1,0 +1,6 @@
+# ignore all txt files
+*.txt
+*.o
+
+# Ignore `bin` dir
+bin/
